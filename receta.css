@@ -1,0 +1,36 @@
+body {
+	background-color: #ffff99;
+}
+h1{
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 40px;
+
+}
+#Ingredientes {
+	background-color: #ffcc66;
+	color: #000000;
+	border-left: 5px solid #ffcc00;
+}
+
+#Procedimiento {
+	background-color: #ffcc66;
+	border-left: 5px solid #ffcc00;
+}
+ul,li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+h2 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 20px;
+	color: white;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: green;
+}
+img.a {
+	width: 100%;
+	border-left: 5px solid #ffcc00;
+}
